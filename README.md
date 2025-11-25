@@ -1,6 +1,6 @@
-# Smart Recipe Optimizer
+# spring-boot-linear-programming-solver
 
-A Java + Spring Boot backend service to solve a linear programming dessert optimization problem.
+spring-boot-linear-programming-solver is a modular backend component built with Java 21 and Spring Boot 3 that provides a clean, extensible engine for solving linear programming problems using ojAlgo. It exposes a simple REST interface for computing optimal mixes, recipes, and resource allocations based on objectives and constraints, making it easy for developers to integrate LP optimization into real-world services and microservices.
 
 ## Project Overview
 Smart Recipe Optimizer is an intelligent tool designed to optimize the composition of recipes, ingredient blends, and dietary plans.
