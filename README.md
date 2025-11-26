@@ -70,6 +70,7 @@ src
 | Method | URL | Description |
 |:------:|:---:|:------------:|
 | POST   | `/solve-dessert` | Solves dessert optimization problem |
+| GET    | / | health-check |
 
 ## Run Locally
 
